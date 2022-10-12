@@ -131,7 +131,7 @@
     position: absolute;
     width: 1250px;
     height: 600px;
-    background-color: var(--white); 
+    background-color: white; 
     border-radius: 20px;
     clip-path: circle(0% at 0 50%);
 }
@@ -157,7 +157,7 @@
 }
 
 .nav-slider .btn-slider {
-    background-color: var(--white);
+    background-color: white;
     width: 12px;
     height: 12px;
     border-radius: 50%;
@@ -182,7 +182,7 @@
     
 }
 .brand-wrapper span {
-    color: var(--black);
+    color: black;
     font-size: 2.5vh;
     text-transform: capitalize;
     font-weight: 800; 
@@ -231,12 +231,12 @@
 }
 .produk-wrapper a {
     text-decoration: none;
-    color: var(--black);
+    color: black;
 }
 
 .produk-wrapper .produk {
     /* position: absolute; */
-    color: var(--white);
+    color: white;
     font-size: 20px;
     text-transform: capitalize;
     font-weight: 800;
@@ -262,7 +262,7 @@
     flex-direction: column;
     width: 250px;
     height: 380px;
-    background-color: var(--white);
+    background-color: white;
     border-radius: 20px;
     /* box-shadow: 0px 30px 10px  rgba(254, 254, 254, 0.5); */
 }
@@ -293,8 +293,8 @@
     margin-top: 10px;
     border-radius: 10px;
     border: none;
-    background-color: var(--black);
-    color: var(--white);
+    background-color: black;
+    color: white;
     font-size: 15px;
     text-transform: uppercase;
     cursor: pointer;
@@ -303,7 +303,7 @@
 
 .card button:hover {
     background-color: #ffdd00;
-    color: var(--black);
+    color: black;
     transition: .2s linear;
     font-weight: 600;
 }
@@ -317,7 +317,7 @@
     border-radius: 4px;
     background-color: var(--aksen);
     border: none;
-    color: var(--black);
+    color: black;
     transition: all 0.5s;
     cursor: pointer;
 }
@@ -405,7 +405,7 @@
 }
 .kolom {
     flex: 1;
-    color: var(--white);
+    color: white;
     /* background-color: aqua; */
 }
 .kolom span {
